@@ -1,0 +1,51 @@
+.hero {
+    font-size: 50px;
+    padding-top: 100px;
+    padding-left: 50px;
+  }
+  .hero-text {
+    color: black;
+    font-size: 60px;
+    font-weight: bolder;
+  }
+  .basiclink{
+    font-size: 13.5px;
+  }
+  .navbutton1 {
+    padding-top: 0px;
+    padding-left: 50px;
+  }
+  .navbutton1 button {
+    border-width: 0px;
+    border-radius: 19px;
+    height: 36px;
+    width: 80px;
+  }
+  .basiclink{
+    color: white;
+  }
+  .navbutton1 button {
+    background: black;
+    border-width: 0px;
+    border-radius: 19px;
+    height: 36px;
+    width: 90px;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    
+  }
+  .navbutton1 button:hover {
+    background: url(../images/wall/12.png);
+    background-size: cover;
+    color: black;
+    transition: 0.5s ease-in-out;
+  }
+  .hero-add {
+    font-size: large;
+    padding-left: 50px;
+  }
+  .normal{
+    font-size: 17px;
+    padding-left: 1px;
+  }

@@ -1,0 +1,92 @@
+.moduleservices {
+    padding-top: 150px;
+    background: rgba(51, 50, 50, 0.2);
+    font-weight: bolder;
+    padding-bottom: 20px;
+  }
+  .firsttitle {
+    font-weight: 600;
+    font-size: large;
+    padding-left: 150px;
+    color: rgb(0, 73, 230);
+  }
+  .firstservice {
+    display: flex;
+    padding-bottom: 10px;
+  }
+  .firstservice #mainp {
+    padding-left: 150px;
+    font-size: 50px;
+    font-weight: 700;
+  }
+  .firstservice #subp {
+    max-width: 550px;
+    padding-left: 124px;
+    font-size: large;
+  }
+  .payments {
+    padding-top: 5px;
+    padding-left: 150px;
+  }
+  #subp{
+    padding-top: 20px;
+  }
+  .paymenttitle {
+    font-size: large;
+    color: rgb(0, 73, 230);
+    font-weight: bold;
+  }
+  .paymentp{
+    display: flex;
+    justify-content: space-between;
+  }
+  .paymentp #big-p {
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .paymentp #small-p1{
+max-width: 550px;
+    padding-right: 150px;
+    font-size: large;
+  }
+  .paymenttitle {
+    font-size: large;
+    color: rgb(0, 73, 230);
+    font-weight: bold;
+  }
+  .paymentp{
+    display: flex;
+    justify-content: space-between;
+  }
+  .paymentp #big-p {
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .paymentp #small-p1{
+    padding-right: 150px;
+    font-size: large;
+  }
+  
+  .casting #big-p {
+    padding-left: 150px;
+    font-size: 50px;
+    font-weight: 700;
+  }
+  .casting #small-p {
+    padding-left: 150px;
+    font-size: large;
+  }
+  .casting-title{
+    font-size: large;
+    color: rgb(0, 73, 230);
+    font-weight: bold;
+    padding-left: 150px;
+  }
+  .casting-words{
+    display: flex;
+    justify-content: space-between;
+  }
+  .casting-words #small-p1{
+    padding-right: 35vh;
+    font-size: 20px;
+  }

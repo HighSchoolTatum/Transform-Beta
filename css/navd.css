@@ -1,0 +1,77 @@
+nav {
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 40px;
+  }
+  .logo {
+    color: white;
+    padding-left: 30px;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 0px;
+  }
+  a {
+    padding-right: 10px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    font-family:"Kristen ITC", sans-serif;
+  }
+  .links #hidden {
+    opacity: 2%;
+    cursor: not-allowed;
+  }
+  .links {
+    padding-top: 10px;
+  }
+  .links a:hover {
+    opacity: 30%;
+    color: grey;
+  }
+  .navbutton {
+    padding-top: 6px;
+  }
+  .navbutton button {
+    border-width: 0px;
+    border-radius: 19px;
+    height: 36px;
+    width: 80px;
+    padding-left: 2px;
+    background:black;
+  }
+  .navbutton button:hover {
+    border-width: 0px;
+    border-radius: 19px;
+    height: 36px;
+    width: 80px;
+    padding-left: 2px;
+    background: url(../images/download.png);
+  }
+  .navbutton button {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.2) 0%,
+      rgba(255, 255, 255, 0.1) 100%
+    );
+    border-width: 0px;
+    border-radius: 19px;
+    height: 36px;
+    width: 80px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .navbutton button:hover {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.4) 0%,
+      rgba(255, 255, 255, 0.3) 100%
+    );
+    color: white;
+  }
+
+  .normal{
+    bottom: 9;
+  }

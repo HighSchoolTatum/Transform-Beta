@@ -1,0 +1,19 @@
+html{
+  background: url(../images/wall/9.png);
+  background-size: 590vh;
+  background-repeat: no-repeat;
+}
+
+body {
+  font-family:"Poppins", sans-serif;
+  height: 100vh;
+  margin: 0;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 65%;
+  top: 0;
+  left: 0;
+  
+  z-index: -1;
+}
